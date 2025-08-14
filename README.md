@@ -10,5 +10,5 @@
 - Tether
 
 ## TODO
-- Persistance
+- Startup
 - Watchdog
