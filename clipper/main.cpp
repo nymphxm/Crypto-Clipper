@@ -14,7 +14,7 @@ static std::string rtrim(const std::string& s) {
     return (end == std::string::npos) ? "" : s.substr(0, end + 1);
 }
 
-static inline std::string trim(const std::string& s) {
+static std::string trim(const std::string& s) {
     return ltrim(rtrim(s));
 }
 
@@ -56,4 +56,5 @@ int main()
 
         std::this_thread::sleep_for(std::chrono::milliseconds(200));
     }
+
 }
