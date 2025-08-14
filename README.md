@@ -9,3 +9,7 @@
 - Ethereum
 - Tether
 - USDC
+
+## TODO
+- Persistance
+- Watchdog
