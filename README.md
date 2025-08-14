@@ -8,7 +8,6 @@
 - Solana
 - Ethereum
 - Tether
-- USDC
 
 ## TODO
 - Persistance
