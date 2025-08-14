@@ -7,7 +7,6 @@
 - Litecoin
 - Solana
 - Ethereum
-- Tether
 
 ## TODO
 - Startup
